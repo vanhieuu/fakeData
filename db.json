@@ -5,36 +5,36 @@
       {
         "day": "28-06-2022",
         "height": 40,
-        "name": "Task1"
+        "name": "Check Fake data task"
       },
       {
         "day": "28-06-2022",
         "height": 40,
-        "name": "Task2"
+        "name": "Apply new company"
       }
     ],
     "2022-06-29": [
       {
         "day": "29-06-2022",
         "height": 40,
-        "name": "Task3"
+        "name": "Nothing to do"
       },
       {
         "day": "29-06-2022",
         "height": 40,
-        "name": "Task4"
+        "name": "Whats upp"
       }
     ],
     "2022-06-30": [
       {
         "day": "30-06-2022",
         "height": 40,
-        "name": "Task5"
+        "name": "Adding Input to add task to be "
       },
       {
         "day": "30-06-2022",
         "height": 40,
-        "name": "Task6"
+        "name": "Testing Api holder"
       }
     ]
   }

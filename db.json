@@ -1,43 +1,57 @@
 {
  "post": [
   {
-    "2022-06-28": [
+    "2022-07-03": [
       {
-        "day": "28-06-2022",
+        "day": "03-07-2022",
         "height": 40,
         "name": "Check Fake data task",
         "hour":"10:00AM - 10:45AM"
       },
       {
-        "day": "28-06-2022",
+        "day": "03-07-2022",
         "height": 40,
         "name": "Apply new company",
        "hour":"8:30AM - 11:45AM"
       }
     ],
-    "2022-06-29": [
+    "2022-07-04": [
       {
-        "day": "29-06-2022",
+        "day": "04-07-2022",
         "height": 40,
         "name": "Nothing to do",
         "hour":"12:30PM - 18:00PM"
       },
       {
-        "day": "29-06-2022",
+        "day": "04-07-2022",
         "height": 40,
         "name": "Whats upp",
        "hour":"12:30PM - 18:00PM"
       }
     ],
-    "2022-06-30": [
+    "2022-07-05": [
       {
-        "day": "30-06-2022",
+        "day": "05-07-2022",
         "height": 40,
         "name": "Adding Input to add task to be ",
        "hour":"8:30AM - 10:00AM"
       },
       {
-        "day": "30-06-2022",
+        "day": "05-07-2022",
+        "height": 40,
+        "name": "Testing Api holder",
+       "hour":"14:30PM - 16:00PM"
+      }
+    ],
+    "2022-07-06": [
+      {
+        "day": "06-07-2022",
+        "height": 40,
+        "name": "Adding Input to add task to be ",
+       "hour":"8:30AM - 10:00AM"
+      },
+      {
+        "day": "06-07-2022",
         "height": 40,
         "name": "Testing Api holder",
        "hour":"14:30PM - 16:00PM"
